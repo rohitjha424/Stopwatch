@@ -242,7 +242,7 @@ margin-top: 0px;
     }
 
     .buttons .btn, .options .btn {
-        font-size: 15px;
+        font-size: 13px;
     }
     /* .options {
         display: flex;
@@ -251,17 +251,19 @@ margin-top: 0px;
     } */
 
     .options .btn, .buttons .btn {
-        width: 40%;
+        width: 43%;
         margin: 5px 2.5px;
         padding: 10px;
     }
 .mb-btn{
-    width: 47% !important;
+    width: 44% !important;
 }
     .options input {
-        font-size: 14px;
+        font-size: 12px;
         padding: 8px 5px;
         margin: 10px 5px 5px 5px;
+        width: 38%;
+
     }
 
     #timer {
@@ -270,10 +272,11 @@ margin-top: 0px;
     #music-select{
         font-size: 14px;
     }
+    #set-music {
+        font-size: 13px;
+    }
 
     .music-op {
-        display: flex;
-        flex-direction: row;
         margin-top: 5px;
     }
 
